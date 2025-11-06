@@ -1,0 +1,7 @@
+{
+    "watch": ["app", "index.ts"],
+    "ext": "ts,json",
+    "ignore": ["dist"],
+    "exec": "ts-node ./index.ts"
+  }
+  
